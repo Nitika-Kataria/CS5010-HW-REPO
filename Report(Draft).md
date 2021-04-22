@@ -5,11 +5,11 @@ Session 1 Team 6
 ----------------
 
 Nitika Kataria (NK3RF) -
-[[nk3rf\@virginia.edu]{.ul}](mailto:nk3rf@virginia.edu)\
+[[nk3rf\@virginia.edu]](mailto:nk3rf@virginia.edu)\
 Robert Knuuti (UQQ5ZZ) -
-[[uqq5zz\@virginia.edu]{.ul}](mailto:uqq5zz@virginia.edu)\
+[[uqq5zz\@virginia.edu]](mailto:uqq5zz@virginia.edu)\
 Swaroop Veerabhadrappa (SBV5DN) -
-[[sbv5dn\@virginia.edu]{.ul}](mailto:sbv5dn@virginia.edu)
+[[sbv5dn\@virginia.edu]](mailto:sbv5dn@virginia.edu)
 
 School of Data Science, University of Virginia\
 CS 5010: Programming and Systems for Data Science\
@@ -55,7 +55,7 @@ project. The USDA has produced a data dictionary demonstrating how the
 CSV file elements link between each table, allowing for cross-table
 analysis from the export. For our analysis, we will be leveraging the
 CSV formatted files. These can be obtained directly from USDA at
-[[https://fdc.nal.usda.gov/download-datasets.html]{.ul}](https://fdc.nal.usda.gov/download-datasets.html)
+[[https://fdc.nal.usda.gov/download-datasets.html]](https://fdc.nal.usda.gov/download-datasets.html)
 .
 
 Performing this analysis will require the investigation of the
@@ -194,26 +194,26 @@ References
 ==========
 
 > Git \[Computer Software\]. (2021, March 26). Retrieved from
-> [[https://git-scm.com/]{.ul}](https://git-scm.com/)
+> [[https://git-scm.com/]](https://git-scm.com/)
 >
 > Matplotlib \[Computer Software\]. (2021, March 26). Retrieved from
-> [[https://matplotlib.org/]{.ul}](https://matplotlib.org/)
+> [[https://matplotlib.org/]](https://matplotlib.org/)
 >
 > Numpy \[Computer Software\]. (2021, January 31). Retrieved from
-> [[https://numpy.org/]{.ul}](https://numpy.org/)
+> [[https://numpy.org/]](https://numpy.org/)
 >
 >Pandas \[Computer Software\]. (2021, March 02). Retrieved from
->[[https://pandas.pydata.org/]{.ul}](https://pandas.pydata.org/)
+>[[https://pandas.pydata.org/]](https://pandas.pydata.org/)
 >
 > Python \[Computer Software\]. (2020, October 05). Retrieved from
-> [[https://www.python.org/]{.ul}](https://www.python.org/)
+> [[https://www.python.org/]](https://www.python.org/)
 >
 > US Department of Agriculture. (2020, October). *FoodData Central
 > Download Data*. FoodData Central.
->[[https://fdc.nal.usda.gov/download-datasets.html]{.ul}](https://fdc.nal.usda.gov/download-datasets.html).
+>[[https://fdc.nal.usda.gov/download-datasets.html]](https://fdc.nal.usda.gov/download-datasets.html).
 
 Annex A: Project Resources
 ==========================
 
 -   Git Repository:
-    > [[https://github.com/uva-sp2021-cs5010-g6/finalproject]{.ul}](https://github.com/uva-sp2021-cs5010-g6/finalproject)
+    > [[https://github.com/uva-sp2021-cs5010-g6/finalproject]](https://github.com/uva-sp2021-cs5010-g6/finalproject)
