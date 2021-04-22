@@ -201,16 +201,16 @@ References
 >
 > Numpy \[Computer Software\]. (2021, January 31). Retrieved from
 > [[https://numpy.org/]{.ul}](https://numpy.org/)
-
-Pandas \[Computer Software\]. (2021, March 02). Retrieved from
-[[https://pandas.pydata.org/]{.ul}](https://pandas.pydata.org/)
-
+>
+>Pandas \[Computer Software\]. (2021, March 02). Retrieved from
+>[[https://pandas.pydata.org/]{.ul}](https://pandas.pydata.org/)
+>
 > Python \[Computer Software\]. (2020, October 05). Retrieved from
 > [[https://www.python.org/]{.ul}](https://www.python.org/)
 >
 > US Department of Agriculture. (2020, October). *FoodData Central
 > Download Data*. FoodData Central.
-> [[https://fdc.nal.usda.gov/download-datasets.html]{.ul}](https://fdc.nal.usda.gov/download-datasets.html).
+>[[https://fdc.nal.usda.gov/download-datasets.html]{.ul}](https://fdc.nal.usda.gov/download-datasets.html).
 
 Annex A: Project Resources
 ==========================
